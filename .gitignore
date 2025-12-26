@@ -1,0 +1,22 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Logs / Output
+*.log
+output/
+plans/
+trace/
+
+# Oracle / SQL*Plus
+*.trc
+*.aud
+spool.lst
+
+# Temporary files
+*.tmp
+*.swp

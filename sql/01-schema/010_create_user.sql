@@ -1,0 +1,2 @@
+# 실습용 사용자 생성
+CREATE USER TUNING IDENTIFIED BY tuning;

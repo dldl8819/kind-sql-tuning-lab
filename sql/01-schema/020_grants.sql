@@ -1,0 +1,2 @@
+# 기본 권한 부여
+GRANT CONNECT, RESOURCE TO TUNING;
